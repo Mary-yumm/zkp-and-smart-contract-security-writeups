@@ -9,6 +9,6 @@ Each folder contains a README with contest details and a findings.md with all vu
 
 | Contest | Platform | Type | Date | H | M | L | I |
 |---|---|---|---|---|---|---|---|
-| [NFT Dealers](./NFTDealers-CodeHawks-FF58-2026/) | CodeHawks First Flights | Beginner | Mar 2026 | 4 | 5 | 7 | 5 |
+| [NFT Dealers](./NFTDealers-CodeHawks-2025/) | CodeHawks First Flights | Beginner | Mar 2026 | 4 | 5 | 7 | 5 |
 
 ---
